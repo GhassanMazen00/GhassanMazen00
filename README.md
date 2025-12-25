@@ -1,69 +1,55 @@
 # Ghassan
 
-I build things.  
-Some work. Some teach lessons.
+IT / Networking / Security  
+Learning by building, testing, and occasionally breaking things.
 
 ---
 
-## ⛓️
-- Systems, networks, patterns  
-- Things that repeat shouldn’t be manual  
-- Curiosity > comfort  
-- Learning in public, thinking in private  
+## 🧠 What I Work With
+- Windows & Linux environments  
+- Small to mid-scale networks and routing  
+- Traffic analysis, scanning, and testing  
+- Automation to reduce manual work  
 
 ---
 
-## ⚙️
-- Windows / Linux  
-- Networks that talk, packets that don’t lie  
-- Tools that scan, listen, automate  
-- Scripts that exist because they had to  
+## ⚙️ Tools & Tech
+- **OS:** Windows, Linux (Ubuntu, Kali)
+- **Networking:** Cisco, MikroTik, Wireshark
+- **Security:** Nmap, Burp Suite, Metasploit
+- **Cloud & Virtualization:** AWS, Azure (Beginner), VMware
+- **Scripting:** Python, Bash, PowerShell
 
 ---
 
-## 🧩 Projects
+## 🧩 Projects & Experiments
 
-- **Packet Dreams**  
-  Traffic patterns recorded, replayed, and questioned.  
+- **Packet Analysis Labs**  
+  Capturing, filtering, and analyzing traffic to understand network behavior.
 
-- **Silent Handshake**  
-  Trust confirmed without announcing itself.  
+- **Network Configurations**  
+  Cisco & MikroTik router and switch configs for routing, VLANs, and firewall rules.
 
-- **Things That Should’ve Been Automated**  
-  A growing collection. None asked politely.  
+- **Security Testing Tools**  
+  Small Python and Linux-based utilities for scanning and testing environments.
 
-- **False Positives**  
-  Signals that looked dangerous. Some were.  
+- **Automation Scripts**  
+  PowerShell & Bash scripts to automate repetitive IT and admin tasks.
 
-- **Stateful**  
-  Remembered too much for too long. Reset helped.  
-
-- **Config Graveyard**  
-  Working configurations. Abandoned anyway.  
-
-- **Entropy Notes**  
-  Observations written while things were breaking.  
-
-- **The Last Manual Step**  
-  Removed once. Returned quietly.  
-
-- **Unlabeled Ports**  
-  Services running where they shouldn’t be.  
-
-- **Midnight Scripts**  
-  Written late. Trusted early. Regretted occasionally.  
+- **Study Notes & Labs**  
+  Structured notes and labs focused on CompTIA Network+ and Security+ topics.
 
 ---
 
-## 📊
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🌒
+## 🌐 Connect
 [![Instagram](https://img.shields.io/badge/Instagram-ghassan.shk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghassan.shk)  
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghasscc@gmail.com)
 
 ---
 
-“Clarity comes later.”
+*Always learning, always curious.*
