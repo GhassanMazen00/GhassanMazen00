@@ -1,42 +1,69 @@
- # Ghassan Mazen
+# Ghassan
 
-💻 IT Specialist | Networking & Cybersecurity Enthusiast | Lifelong Learner  
-
----
-
-## 🚀 About Me
-- 🖥 Experienced in **IT support, networking, and system administration**  
-- 🔐 Passionate about **cybersecurity, cloud computing, and automation**  
-- 📚 Currently preparing for **CompTIA certifications (Network+, Security+)**  
-- 🌍 Open to collaborating on IT-related projects and knowledge sharing  
+I build things.  
+Some work. Some teach lessons.
 
 ---
 
-## 🛠 Skills & Tools
-- **Operating Systems:** Windows, Linux (Ubuntu, Kali)  
-- **Networking:** Cisco, Mikrotik, Wireshark  
-- **Security Tools:** Nmap, Burp Suite, Metasploit  
-- **Cloud & Virtualization:** AWS, Azure (beginner), VMware  
-- **Scripting:** Python, Bash, PowerShell  
+## ⛓️
+- Systems, networks, patterns  
+- Things that repeat shouldn’t be manual  
+- Curiosity > comfort  
+- Learning in public, thinking in private  
 
 ---
 
-## 📂 Featured Projects
-- 🔹 **Automation Scripts** – PowerShell & Bash scripts for IT tasks  
-- 🔹 **Networking Configs** – Sample Cisco/Mikrotik configs for routers & switches  
-- 🔹 **Cybersecurity Tools** – Small Python & Linux utilities for testing security  
-- 🔹 **Study Notes** – CompTIA & IT knowledge resources  
+## ⚙️
+- Windows / Linux  
+- Networks that talk, packets that don’t lie  
+- Tools that scan, listen, automate  
+- Scripts that exist because they had to  
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Projects
+
+- **Packet Dreams**  
+  Traffic patterns recorded, replayed, and questioned.  
+
+- **Silent Handshake**  
+  Trust confirmed without announcing itself.  
+
+- **Things That Should’ve Been Automated**  
+  A growing collection. None asked politely.  
+
+- **False Positives**  
+  Signals that looked dangerous. Some were.  
+
+- **Stateful**  
+  Remembered too much for too long. Reset helped.  
+
+- **Config Graveyard**  
+  Working configurations. Abandoned anyway.  
+
+- **Entropy Notes**  
+  Observations written while things were breaking.  
+
+- **The Last Manual Step**  
+  Removed once. Returned quietly.  
+
+- **Unlabeled Ports**  
+  Services running where they shouldn’t be.  
+
+- **Midnight Scripts**  
+  Written late. Trusted early. Regretted occasionally.  
+
+---
+
+## 📊
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghassan_shourekie)   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghasscc@gmail.com)  
+## 🌒
+[![Instagram](https://img.shields.io/badge/Instagram-ghassan.shk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghassan.shk)  
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghasscc@gmail.com)
 
 ---
-⭐ *"Always learning, always curious."*
+
+“Clarity comes later.”
